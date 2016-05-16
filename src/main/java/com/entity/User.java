@@ -6,7 +6,7 @@ import javax.persistence.*;
 import java.util.Date;
 
 @Entity
-@Table(name="hb_user")
+@Table(name="user")
 public class User {
 
     private long id;
